@@ -1,18 +1,14 @@
 [
   {
-    "url": "https://github.com/frappe/erpnext",
-    "branch": "version-15"
+    "url": "https://github.com/Kanivin/kanierp",
+    "branch": "main"
   },
   {
-    "url": "https://github.com/frappe/payments",
-    "branch": "version-15"
+    "url": "https://github.com/Kanivin/hrms",
+    "branch": "main"
   },
   {
-    "url": "https://github.com/frappe/hrms",
-    "branch": "version-15"
-  },
-  {
-    "url": "https://github.com/resilient-tech/india-compliance",
-    "branch": "version-15"
+    "url": "https://github.com/Kanivin/india-compliance",
+    "branch": "main"
   }
 ]

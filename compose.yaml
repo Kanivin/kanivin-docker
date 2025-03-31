@@ -1,5 +1,5 @@
 x-customizable-image: &customizable_image
-  # By default the image used only contains the `frappe` and `erpnext` apps.
+  # By default the image used only contains the `frappe` and `kanierp` apps.
   # See https://github.com/frappe/frappe_docker/blob/main/docs/custom-apps.md
   # about using custom images.
   image: ${CUSTOM_IMAGE:-kanivin/kanivin-erp}:${CUSTOM_TAG:-$KANIVINERP_VERSION}
@@ -90,6 +90,6 @@ services:
     platform: linux/amd64
     command: bench schedule
 
-# ERPNext requires local assets access (Frappe does not)
+# KaniERP requires local assets access (Frappe does not)
 volumes:
   sites:
