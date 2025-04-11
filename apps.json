@@ -1,12 +1,8 @@
 [
   {
-    "url": "https://github.com/Kanivin/kanierp",
+    "url": "https://github.com/Kanivin/kanierp-dms",
     "branch": "main"
-  },
-  {
-    "url": "https://github.com/Kanivin/hrms",
-    "branch": "main"
-  },
+  },  
   {
     "url": "https://github.com/Kanivin/india-compliance",
     "branch": "main"
